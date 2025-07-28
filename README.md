@@ -42,7 +42,7 @@ Para ejectuar este proyecto, se necesita:
 ## ▶️ Ejecución
 
 1. Ejecuta los tests con el siguiente comando: `npm test`.
-2. Si todos los tests pasan, ¡Todo es correcto y funcional! Sientete libre de cambiar los valores por codigo para hacer diferentes tests con la lista de peliculas que se viene dentro del documento `data.js`
+2. Si todos los tests pasan, ¡Todo es correcto y funcional! Sientete libre de cambiar los valores por codigo para hacer diferentes tests con la lista de peliculas que se viene dentro del documento `data.js`.
 
 ---
 
